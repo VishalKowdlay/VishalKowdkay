@@ -9,4 +9,4 @@
 Made a calculator that handles scientific math operations.
 
 # Learning how to code 🚀
--  Learning [SQL](https://github.com/Abhishek1098/SQL) with *PostgreSql*, *Azure*, *SQLiteStudio*
+-  Learning [Android Studios](https://github.com/VishalKowdlay/Android-App-Dev) with *Java*
