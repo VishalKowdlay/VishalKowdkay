@@ -1,5 +1,5 @@
 # Welcome to my GitHub 🌍🧑‍🎓
-- 🦆 I'm a Computer Science major at NJIT
+- 🦆 I'm a Computer Science major at Rutgers New Brunswick
 - 😄 Pronouns: He/him
 
 
